@@ -8,5 +8,7 @@ Here is a link of the game in action-
 https://people.cs.clemson.edu/~malloy/courses/3720-2015/pics/evan/evan.mp4
 
 Controls:
+
 Left and Right Keys -> Move left and right
+
 Space -> Jump
