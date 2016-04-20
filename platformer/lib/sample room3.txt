@@ -1,0 +1,19 @@
+PTTTTTTTTTTTTTTTTTTA
+#                  W
+#                  W
+#                  W
+#                  W
+#DDDDD  W DDDDD    W
+#       W        D W
+#       W      DDD W
+#         DDD      W
+#              DD  W
+#      DDDDDDDDDD  W
+#DDDD              W
+#   DDDDDDDD       W
+#              DDDDW
+LDDDDDDDDDDDDDDDDDDC
+up:
+right:
+down:
+left:

@@ -1,0 +1,19 @@
+####################
+#                   
+#                   
+####################
+#                  #
+#                  #
+#        DDD       #
+#                  #
+#  DDD             #
+#                  #
+#        DDD       #
+######          ####
+#    #              
+#            ##     
+DDDDDDDDDDDDDDDDDDDD
+up:
+right:room2.txt
+down:
+left:
